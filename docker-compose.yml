@@ -8,4 +8,4 @@ services:
     logging:
       options:
         max-size: 1g
-    image: mhdzumair/mediaflow-proxy:latest
+    image: ghcr.io/nn34223/mediaflow-proxy:latest
